@@ -17,22 +17,6 @@
         "children": [],
         "id": "19e611da-0cc5-461c-8ab1-74ab47e9d05f",
         "type": "not"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
-        "properties": {
-          "destination": "",
-          "op": {
-            "value": "",
-            "type": "string"
-          }
-        },
-        "children": [],
-        "id": "848ad9ad-c0cd-40a8-8130-bd36084f2e42",
-        "type": "set"
       }
     ],
     "id": "dfd4dd0a-a9ac-43c9-8b7a-c33dffcf47fc"
