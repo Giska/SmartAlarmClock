@@ -22,7 +22,7 @@
         "properties": {},
         "children": [
           {
-            "activated": true,
+            "activated": false,
             "metadata": {
               "label": "Userinfo",
               "itemTemplate": "BTActionNode.qml",
@@ -37,13 +37,13 @@
               "inputParams": [
                 {
                   "key": "serviceName",
-                  "value": "oauth2",
-                  "type": "string"
+                  "type": "string",
+                  "value": "oauth2"
                 },
                 {
                   "key": "version",
-                  "value": "v2",
-                  "type": "string"
+                  "type": "string",
+                  "value": "v2"
                 }
               ],
               "outputParams": []
@@ -68,13 +68,13 @@
               "inputParams": [
                 {
                   "key": "serviceName",
-                  "value": "gmail",
-                  "type": "string"
+                  "type": "string",
+                  "value": "gmail"
                 },
                 {
                   "key": "version",
-                  "value": "v1",
-                  "type": "string"
+                  "type": "string",
+                  "value": "v1"
                 }
               ],
               "outputParams": []
@@ -99,13 +99,13 @@
               "inputParams": [
                 {
                   "key": "serviceName",
-                  "value": "calendar",
-                  "type": "string"
+                  "type": "string",
+                  "value": "calendar"
                 },
                 {
                   "key": "version",
-                  "value": "v3",
-                  "type": "string"
+                  "type": "string",
+                  "value": "v3"
                 }
               ],
               "outputParams": []
