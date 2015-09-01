@@ -1,10 +1,14 @@
 [
   {
-    "version": "0.1.2"
+    "version": "1.2.0"
   },
   {
-    "id": "e4420e8d-fb65-483e-b810-afb40e861f65",
-    "name": "8f66883c-d0a3-46ab-9771-56c049f3bac0",
-    "children": []
+    "activated": true,
+    "metadata": {
+      "label": ""
+    },
+    "properties": {},
+    "children": [],
+    "id": "dda69b10-d404-46eb-9d0b-5f318b7217ee"
   }
 ]
